@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Milosz162
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on FiveCity
 - 📫 How to reach me Discord - Miłosz#0001
 
